@@ -1,4 +1,5 @@
-/* Modfied the dht11.c program to read from DHT22 sensor
+/* Code from http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/
+* Modfied the dht11.c program to read from DHT22 sensor
 * Uses Wiring Pi library
 * To Compile -> gcc -o dht22 dht22.c -lwiringPi -lwiringPidev
 *
